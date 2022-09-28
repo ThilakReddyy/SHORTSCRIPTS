@@ -1,4 +1,4 @@
-## Short Scripts
+## Thilak Scripts
 
 An assortment of short scripts for various purposes. Feel free to copy and use as you wish.
 
