@@ -11,6 +11,10 @@ An assortment of short scripts for various purposes. Feel free to copy and use a
 * License
 * Authors
 
+## Introduction
+
+This collection of scripts is comprised of a wide range of languages and purposes.  Feel free to copy and use as you wish. This code is licensed under the MIT License
+
 ## Questions? Need Help? 
 
 If you've got questions about setup, special feature implementation, or just want to chat with the developer, please feel free to contact me on <a href="mailto:thilakreddypothuganti@gmail.com">mail</a>
