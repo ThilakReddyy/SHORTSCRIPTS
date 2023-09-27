@@ -15,6 +15,33 @@ An assortment of short scripts for various purposes. Feel free to copy and use a
 
 This collection of scripts is comprised of a wide range of languages and purposes.  Feel free to copy and use as you wish. This code is licensed under the MIT License
 
+## Usage
+
+To use these scripts, follow the instructions below:
+
+1. **Clone the Repository:**
+
+   Clone this repository to your local machine using the following command:
+     ```git clone https://github.com/ThilakReddyy/Thilak-Scripts```
+
+2. **Choose a Script:**
+
+    Browse through the scripts available in the repository and choose the one that suits your needs.
+
+3. **Install Dependencies (if necessary):**
+
+    Depending on the script you've selected, you may need to install specific dependencies or libraries. Refer to the script's documentation for any installation requirements.
+
+4. **Run the Script:**
+
+    Run the script by executing the corresponding command in your terminal or command prompt. For example:
+
+```bash
+python script_name.py
+```
+
+Replace `script_name.py` with the actual filename of the script you intend to run.
+
 ## Questions? Need Help? 
 
 If you've got questions about setup, special feature implementation, or just want to chat with the developer, please feel free to contact me on <a href="mailto:thilakreddypothuganti@gmail.com">mail</a>
